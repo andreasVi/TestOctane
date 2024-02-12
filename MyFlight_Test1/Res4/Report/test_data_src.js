@@ -1,1 +1,0 @@
-﻿var __testDataSource={items:[{dataFilePath:'Default.xlsx',dataFileFormat:'excel',dataFileFolder:'C:\\Users\\ISGS\\Documents\\UFT One\\MyFlight\\MyFlight_Test1\\Res4',namePairs:[]}]};
