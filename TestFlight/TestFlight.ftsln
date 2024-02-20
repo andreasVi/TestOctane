@@ -1,0 +1,47 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+# SharpDevelop 4.1.3.0
+Project("") = "TestFlight", "TestFlight\Test.tsp", "96878BBB-F79D-46B6-8C08-5925D1EBC1B0"
+	ProjectSection(ProjectMetadata) = HP.UFT.ProjectSystem.Dynamic.ProjectMetadata
+		PathInformation = C:\Users\ISGS\Documents\UFT One\TestFlight\TestFlight\Test.tsp
+		Keyword = QTP
+		OpenAsReadOnly = False
+	EndProjectSection
+EndProject
+Project("") = "GUITest1", "..\GUITest1\Test.tsp", "B75D88FD-4091-4841-AC47-2DAD851C2000"
+	ProjectSection(ProjectMetadata) = HP.UFT.ProjectSystem.Dynamic.ProjectMetadata
+		PathInformation = C:\Users\ISGS\Documents\UFT One\GUITest1\Test.tsp
+		Keyword = QTP
+		OpenAsReadOnly = False
+		BaselineId = 
+	EndProjectSection
+EndProject
+Project("") = "IfCondition", "..\IfCondition\Test.tsp", "4F1A25A1-FD22-41EC-B00D-7A2BD745E442"
+	ProjectSection(ProjectMetadata) = HP.UFT.ProjectSystem.Dynamic.ProjectMetadata
+		PathInformation = C:\Users\ISGS\Documents\UFT One\IfCondition\Test.tsp
+		Keyword = QTP
+		OpenAsReadOnly = False
+		BaselineId = 
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		96878BBB-F79D-46B6-8C08-5925D1EBC1B0.Debug|Any CPU.Build.0 = Debug|Any CPU
+		96878BBB-F79D-46B6-8C08-5925D1EBC1B0.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		96878BBB-F79D-46B6-8C08-5925D1EBC1B0.Release|Any CPU.Build.0 = Release|Any CPU
+		96878BBB-F79D-46B6-8C08-5925D1EBC1B0.Release|Any CPU.ActiveCfg = Release|Any CPU
+		B75D88FD-4091-4841-AC47-2DAD851C2000.Debug|Any CPU.Build.0 = Debug|Any CPU
+		B75D88FD-4091-4841-AC47-2DAD851C2000.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		B75D88FD-4091-4841-AC47-2DAD851C2000.Release|Any CPU.Build.0 = Release|Any CPU
+		B75D88FD-4091-4841-AC47-2DAD851C2000.Release|Any CPU.ActiveCfg = Release|Any CPU
+		4F1A25A1-FD22-41EC-B00D-7A2BD745E442.Debug|Any CPU.Build.0 = Debug|Any CPU
+		4F1A25A1-FD22-41EC-B00D-7A2BD745E442.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		4F1A25A1-FD22-41EC-B00D-7A2BD745E442.Release|Any CPU.Build.0 = Release|Any CPU
+		4F1A25A1-FD22-41EC-B00D-7A2BD745E442.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+EndGlobal
